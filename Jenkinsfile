@@ -1,5 +1,5 @@
 node {
-    stage ('git springpetclinic') {
+    stage ('git openmrs-contrib-android-client') {
         //git clone
         git 'git \'https://github.com/Srinath246/openmrs-contrib-android-client.git\''
     }
